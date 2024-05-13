@@ -33,8 +33,8 @@
 </ol>
 
 <h2>Contributors</h2>
-<p>Ahad Channa - Creator</p>
-<p>Muskan Shaikh - Creator</p>
+<p><a href="https://github.com/AhadChanan/food-delivery-system-design">Ahad Channa</a> - Creator</p>
+<p><a href="https://github.com/Muskan437/food-delivery-system-design">Muskan Shaikh</a> - Creator</p>
 
 
 </body>
